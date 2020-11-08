@@ -25,12 +25,12 @@
 				<li class="nav-item active">
 					<a class="nav-link" href="#">Home</a>
 				</li>
-				<li class="nav-item">
+				<!-- <li class="nav-item">
 					<a class="nav-link" href="#">About</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">Location</a>
-				</li>
+				</li> -->
 				<!--
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">Services</a>
@@ -44,8 +44,11 @@
 					<a class="nav-link" href="#">Contact Us</a>
 				</li>
 				<li class="nav-item">
-					<a href="login.php"><button type="button" class="btn btn-md btn-outline-secondary"> Sign in</button></a>
+					<a class="nav-link" href="login.php">Sign In</a>
 				</li>
+				<!-- <li class="nav-item">
+					<a href="login.php"><button type="button" class="btn btn-md btn-outline-secondary"> Sign in</button></a>
+				</li> -->
 			</ul>
 		</div>
 	</nav>
