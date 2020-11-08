@@ -1,0 +1,9 @@
+[15-Feb-2020 03:45:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'id12256582_bote'@'localhost' (using password: YES) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/conn.php on line 2
+[15-Feb-2020 03:45:36 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 11
+[15-Feb-2020 03:45:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 12
+[15-Feb-2020 04:11:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'boteacts-admin@billing.boacts.com' (0) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/conn.php on line 6
+[15-Feb-2020 04:11:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 11
+[15-Feb-2020 04:11:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 12
+[21-Feb-2020 07:04:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/conn.php on line 3
+[21-Feb-2020 07:04:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 11
+[21-Feb-2020 07:04:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/login2.php on line 12

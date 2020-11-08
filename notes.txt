@@ -1,0 +1,109 @@
+	$soa_id = $_GET['soaid'];
+	$temp_pay = $_GET['id'];
+
+	?>
+				<script>
+					alert(<?php echo $soa_id;?>);
+				</script>
+			<?php
+
+	$pay_amount = $_POST['pay_amount'];
+	$old_amount = $_POST['old_amount'];
+	?>
+				<script>
+					alert(<?php echo $old_amount;?>);
+				</script>
+			<?php
+
+	$pay_status="";
+
+	
+	// check for previous payment history
+	if(checkPreviousPayments($soa_id)==false){
+		//if compare pay amount to original amount is equal
+		if(compareAmounttoOriginal($pay_amount,$temp_pay)==true){
+			//proceed to update temporary pay details with original amount and status fully-paid
+			?>
+				<script>
+					alert("<?php echo $soa_id;?>");
+				</script>
+			<?php
+			$pay_status = "fully-paid";
+			$SQL = "UPDATE temp_pay_details set pay_amount='$pay_amount', pay_status='$pay_status' where temp_pay='$temp_pay'";
+
+			mysqli_query($connection, $SQL);
+			header('location: collectiondetails.php?id=$soa_id');
+		}
+		//if compare pay amount to original amount is not equal
+		if (compareAmounttoOriginal($pay_amount,$temp_pay)==false) {
+			if (isAmountGreatertoOriginal($pay_amount,$temp_pay)==true) {
+				?>
+				<script>
+					alert("Amount paid greater than original amount");
+					location="collectiondetails.php?id=<?php echo $soa_id;?>";
+				</script>
+				<?php
+			}
+			else {
+				?>
+					<script>
+						alert("<?php echo $soa_id;?>");
+					</script>
+				<?php
+				$pay_status = "partial";
+				$SQL = "UPDATE temp_pay_details set pay_amount='$pay_amount', pay_status='$pay_status' where temp_pay='$temp_pay'";
+
+				mysqli_query($connection, $SQL);
+				header('location: collectiondetails.php?id=.$soa_id.');	
+			}
+		}
+
+	}
+	//if there is a previous payment record
+	else {
+		header('location: collectiondetails.php?id=.$soa_id.');
+	}
+
+
+
+	function checkPreviousPayments($soaid){
+		$connection = new mysqli('localhost','root','','samplecrud') or die();
+		$SQL = "SELECT * FROM tbl_pay where soa_id=$soaid";
+		$query = mysqli_query($connection, $SQL);
+
+		if(mysqli_num_rows($query)>0){
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
+
+
+	function compareAmounttoOriginal($amount, $soadetailid){
+		$connection = new mysqli('localhost','root','','samplecrud') or die();
+		$SQL = "SELECT soa_description_amount from tbl_soa_details where soa_details_id=$soadetailid";
+		$query = mysqli_query($connection, $SQL);
+		$row = mysqli_fetch_assoc($query);
+		$getOriginalAmt = $row['soa_description_amount'];
+
+		if($getOriginalAmt==$amount){
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	function isAmountGreatertoOriginal($amount,$soadetailid){
+		$connection = new mysqli('localhost','root','','samplecrud') or die();
+		$SQL = "SELECT soa_description_amount from tbl_soa_details where soa_details_id=$soadetailid";
+		$query = mysqli_query($connection, $SQL);
+		$row = mysqli_fetch_assoc($query);
+		$getOriginalAmt = $row['soa_description_amount'];
+
+		if($amount > $getOriginalAmt){
+			return true;
+		} else {
+			return false;
+		}
+	}

@@ -1,0 +1,412 @@
+[15-Feb-2020 05:47:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id12256582_bote'@'localhost' (using password: YES) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 204
+[16-Feb-2020 13:57:57 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[16-Feb-2020 13:57:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[16-Feb-2020 13:57:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 01:09:00 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[17-Feb-2020 01:40:40 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 14
+[17-Feb-2020 01:51:32 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 01:51:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 01:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 01:51:48 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 01:51:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 01:51:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 02:40:35 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 14
+[17-Feb-2020 02:42:24 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:42:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:42:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 02:42:38 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:42:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:42:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 02:43:09 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:43:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[17-Feb-2020 02:43:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[17-Feb-2020 02:43:18 UTC] PHP Notice:  Undefined variable: userfullname in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaprint.php on line 144
+[19-Feb-2020 03:02:43 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:02:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:03:18 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:03:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:03:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:03:35 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:03:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:03:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:04:22 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:04:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:04:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:04:37 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:04:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:11:10 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:11:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:11:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:14:56 UTC] PHP Notice:  Undefined variable: userfullname in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaprint.php on line 144
+[19-Feb-2020 03:22:08 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:22:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:22:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:22:57 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:22:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:22:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:07 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:15 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:24 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:26 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:28 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:47 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:49 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:50 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:52 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:23:53 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:23:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:24:04 UTC] PHP Notice:  Undefined variable: userfullname in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaprint.php on line 144
+[19-Feb-2020 03:27:55 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:27:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:27:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:43 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:44 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:45 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:46 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:47 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:48 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:31:49 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:31:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:44:29 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:44:32 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:44:58 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:45:00 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:45:02 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:45:03 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:45:04 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:45:05 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 182
+[19-Feb-2020 03:45:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 183
+[19-Feb-2020 03:47:17 UTC] PHP Notice:  Undefined variable: userfullname in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaprint.php on line 144
+[19-Feb-2020 03:50:16 UTC] PHP Notice:  Undefined variable: userfullname in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaprint.php on line 144
+[19-Feb-2020 05:01:47 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaapproved.php on line 12
+[04-Mar-2020 16:21:49 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[04-Mar-2020 18:14:06 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 12
+[04-Mar-2020 18:17:29 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[04-Mar-2020 18:17:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[04-Mar-2020 18:17:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[04-Mar-2020 18:29:54 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[04-Mar-2020 18:29:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[04-Mar-2020 18:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[05-Mar-2020 02:40:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 02:40:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 02:41:10 UTC] PHP Notice:  Undefined index: collected_by in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/addcollection.php on line 9
+[05-Mar-2020 02:41:10 UTC] PHP Notice:  Undefined index: remitted_to in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/addcollection.php on line 10
+[05-Mar-2020 02:41:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 02:41:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 02:42:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 02:42:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 02:42:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 02:42:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 02:42:50 UTC] PHP Notice:  Undefined index: checkbox in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 139
+[05-Mar-2020 02:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 142
+[05-Mar-2020 02:42:50 UTC] PHP Notice:  Undefined index: soaid in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 191
+[05-Mar-2020 02:42:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 194
+[05-Mar-2020 02:43:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 02:43:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 03:57:43 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/reports.php on line 12
+[05-Mar-2020 03:58:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 03:58:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 63
+[05-Mar-2020 04:00:08 UTC] PHP Notice:  Undefined index: collected_by in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/addcollection.php on line 9
+[05-Mar-2020 04:00:08 UTC] PHP Notice:  Undefined index: remitted_to in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/addcollection.php on line 10
+[05-Mar-2020 04:00:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 04:00:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 04:01:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 04:01:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 04:07:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 04:07:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 04:12:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 04:12:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 04:12:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/functions.php on line 35
+[05-Mar-2020 04:12:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 15
+[05-Mar-2020 06:57:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 145
+[05-Mar-2020 10:36:08 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collection.php on line 13
+[05-Mar-2020 20:33:25 UTC] PHP Notice:  Undefined index: checkbox in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 139
+[05-Mar-2020 20:33:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 142
+[05-Mar-2020 20:33:25 UTC] PHP Notice:  Undefined index: soaid in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 191
+[05-Mar-2020 20:33:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 194
+[05-Mar-2020 20:34:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 145
+[05-Mar-2020 20:55:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collectiondetails.php on line 145
+[06-Mar-2020 06:51:52 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/clients.php on line 12
+[07-Mar-2020 07:38:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:38:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:38:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:38:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:43:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:43:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:43:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:44:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:44:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:44:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:44:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:44:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:45:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 97
+[07-Mar-2020 07:50:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[07-Mar-2020 08:01:43 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 08:01:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 08:01:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[07-Mar-2020 09:20:04 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaapproved.php on line 12
+[07-Mar-2020 09:21:32 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 09:21:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 09:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[07-Mar-2020 10:31:37 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaapproved.php on line 12
+[07-Mar-2020 10:31:59 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 10:31:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 10:31:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[07-Mar-2020 10:49:18 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 10:49:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 10:49:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[07-Mar-2020 11:05:26 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 11:05:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[07-Mar-2020 11:05:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[09-Mar-2020 10:46:38 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[11-Mar-2020 07:06:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 07:07:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 07:07:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 07:07:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 07:07:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 08:01:51 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/ar-reports.php on line 12
+[11-Mar-2020 08:15:15 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 08:15:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 08:15:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 08:15:35 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 08:15:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 08:15:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 08:25:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94
+[11-Mar-2020 20:41:39 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:41:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 20:41:47 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:41:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 20:43:06 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:43:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 20:43:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:04:10 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:04:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:04:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:06:19 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:06:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:07:51 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:08:29 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:08:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:08:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:08:44 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:08:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:08:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:09:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:09:27 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:09:50 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:09:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:10:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:10:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:10:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:11:24 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:11:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:11:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:12:13 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:12:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:12:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:18:36 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:18:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:19:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:19:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:19:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:20:44 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:20:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:20:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:22:02 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:22:41 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:22:45 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:22:52 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:22:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:23:40 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:23:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:23:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:24:14 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:24:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:24:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:25:17 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:25:36 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:25:53 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:25:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:27:44 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:27:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:27:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:28:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:28:27 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:28:48 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:28:52 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:28:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:30:37 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:30:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:30:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:31:11 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:31:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:31:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:31:40 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:31:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:31:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:33:15 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:33:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:48:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 21:50:00 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:50:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 21:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:14:19 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:14:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:14:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:16:56 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:16:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:16:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:17:08 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:17:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:17:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:18:05 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:18:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:32:25 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:32:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:32:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:34:47 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:34:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:36:44 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:36:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:36:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[11-Mar-2020 22:37:17 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:37:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[11-Mar-2020 22:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 02:39:28 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/clients.php on line 12
+[12-Mar-2020 03:41:52 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collection.php on line 13
+[12-Mar-2020 05:48:19 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 05:48:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 05:48:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 05:50:42 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 05:50:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 05:50:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 06:19:20 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 06:19:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 06:19:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 06:19:28 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 06:19:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 06:19:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 07:04:23 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/charges.php on line 12
+[12-Mar-2020 08:33:16 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 08:33:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[12-Mar-2020 08:33:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[12-Mar-2020 09:00:58 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collection.php on line 13
+[15-Mar-2020 11:14:56 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:14:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:14:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 11:15:08 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 11:15:39 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 11:15:57 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:15:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 11:16:27 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:16:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:16:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 11:33:01 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:33:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[15-Mar-2020 11:33:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[15-Mar-2020 12:48:26 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/collection.php on line 13
+[15-Mar-2020 13:35:07 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 12
+[16-Mar-2020 00:19:12 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/add_new-collection.php on line 14
+[16-Mar-2020 03:51:54 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[17-Jun-2020 14:57:25 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soaapproved.php on line 12
+[18-Jun-2020 08:38:57 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[18-Jun-2020 08:39:31 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/index.php on line 12
+[18-Jun-2020 09:06:19 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails.php on line 12
+[02-Oct-2020 05:04:24 UTC] PHP Notice:  Undefined index: level in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soapending.php on line 12
+[02-Oct-2020 05:28:27 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[02-Oct-2020 05:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[02-Oct-2020 05:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[02-Oct-2020 05:29:33 UTC] PHP Notice:  Undefined variable: temp in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[02-Oct-2020 05:29:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 151
+[02-Oct-2020 05:29:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/soadetails2.php on line 152
+[02-Oct-2020 05:31:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/admin/cashdisbursement.php on line 94

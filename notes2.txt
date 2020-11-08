@@ -1,0 +1,25 @@
+create table tbl_voucher(
+    voucher_id int(5) AUTO_INCREMENT PRIMARY KEY,
+    voucher_date date,
+    voucher_to varchar(200) not null,
+    voucher_from varchar(200) not null,
+    voucher_amt decimal(10,2),
+    voucher_type varchar(50),
+    voucher_remarks1 text,
+    voucher_remarks2 text,
+    voucher_note text,
+    created_by varchar(200) not null
+    );
+
+
+
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Hygienix Inc.','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('MSi Computers','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Johnson and Johnson','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Jollibee Foods Corp.','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Lazada PH','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Shopee PH','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('HP1502','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('CASH','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('Wowowin','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');
+    insert into tbl_voucher(voucher_to, voucher_from, voucher_date) values('ABS-CBN','BOTE ACCOUNTING AND TAXATION SERVICES','2020-02-11');

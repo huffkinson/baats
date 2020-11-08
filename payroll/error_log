@@ -1,0 +1,9 @@
+[01-Apr-2020 11:47:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/conn.php on line 4
+[01-Apr-2020 11:47:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/company.php on line 117
+[01-Apr-2020 11:47:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/company.php on line 118
+[01-Apr-2020 11:56:10 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/conn.php on line 4
+[01-Apr-2020 11:56:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/index.php on line 64
+[01-Apr-2020 11:56:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/index.php on line 65
+[01-Apr-2020 11:56:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/conn.php on line 4
+[01-Apr-2020 11:56:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/index.php on line 64
+[01-Apr-2020 11:56:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/of3pu1msiuqt/public_html/boacts.com/billing.boacts.com/payroll/index.php on line 65
